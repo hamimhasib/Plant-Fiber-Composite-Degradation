@@ -201,7 +201,7 @@ Section anchors below match the markdown headers in the notebook so they survive
 | Per Composite GPR improvement | — | GPR-vs-OLS residual improvement per composite |
 | Calibration from Kuleshov's paper | — | calibration curve + `calibration_numerical_details.xlsx` |
 | Composite categorisation (AD) | — | outlier / outside-AD / inside-AD table |
-| In-domain consistency | — | matrix chemistry vs degradation rate, restricted to 43 in-AD composites |
+| In-domain consistency | — | matrix chemistry vs degradation rate |
 
 ### Code conventions in this notebook
 
