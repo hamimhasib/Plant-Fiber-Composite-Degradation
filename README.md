@@ -260,7 +260,7 @@ Pure descriptor exploration, no modelling. Reads `dataset.xlsx`, writes CSVs and
 
 ## `Logic_of_N_OUTLIER_Equals_9.ipynb`
 
-A small post-hoc notebook. **It does not run the pipeline itself** — it reads per-N CSVs that the pipeline writes.
+A small post-hoc notebook. **Created for readers in order to run the notebook seperately, prior or post-runs of the main pipeline for verification of the outlier numbers****It does not run the pipeline itself** — it reads per-N CSVs that the pipeline writes.
 
 | Section | Action |
 |---|---|
