@@ -1,0 +1,63 @@
+Sample Name,Matrix,Filler,Volume Fraction,Calculated First Order Rate,Calculated Hixson-Crowell Rate,Ref.,Inside AD?
+0,"Epoxyurethane (80% polyisocyanate, 20% EBSO)",Hemp Wood Core,65,0.00161,0.00049,Samoilenko el al 20227,No (outlier)
+1,PVA/Starch/Glycerol,Baggasse,20,0.01695,0.00533,Moreira et al. (2018)8,No (outlier)
+2,MaterBi-Y,Sisal Fiber,15,0.00112,0.00035,Alvarez et al. (2006)9,No (outlier)
+3,PP,Bamboo Fiber,50,0.00181,0.00059,Chattopadhyay et al. (2011)10,Yes
+4,PP,PALF Fiber,10,0.00117,0.00038,Chattopadhyay et al (2011)10,Yes
+5,PP,Banana Fiber,15,0.00057,0.00019,Chattopadhyay et al (2011)10,Yes
+6,HDPE,Jute Fiber,30,0.00166,0.00053,Chaudhuri et al (2013)11,Yes
+7,Epoxy DGBEA,Bamboo/Kenaf,40,0.0029,0.00009,Chee et al. (2019)12,No
+8,Epoxy,Sansevieria Fiber,40,0.01196,0.00361,Iyyadurai et al (2023)13,No (outlier)
+9,PLA,Oil Palm Fiber,25,0.02877,0.00914,Hapizi et al. (2021)14,Yes
+10,PLA,Oil Palm Fiber,7,0.00726,0.00239,Hapizi et al. (2021)14,Yes
+11,TPS,Flax Fiber,50,0.02389,0.0075,Ibrahim et al. (2017)15,Yes
+12,TPS,Palm Fiber,50,0.0294,0.00947,Ibrahim et al. (2017)15,Yes
+13,TPS,Banana Fiber,50,0.03241,0.01041,Ibrahim et al. (2017)15,Yes
+14,TPS,Baggasse,50,0.03188,0.01024,Ibrahim et al. (2017),Yes
+15,PP,Kenaf,30,0.00234,0.00075,Islam et al. (2015)16,Yes
+16,PP,Coir,30,0.00168,0.00054,Islam et al. (2015)16,Yes
+17,PBSA,Bamboo Fiber,20,0.05365,0.01384,Su & Wu (2011)17,No (outlier)
+18,PLA,Sisal Fiber,30,0.00165,0.00053,Krishnaiah et al (2018)18,No (outlier)
+19,PLA,Flax Fiber,30,0.00295,0.00094,Kumar et al (2010)19,Yes
+20,Epoxy,Pineapple Leaf,40,0.01463,0.00377,Mittal et al (2019)20,No (outlier)
+21,Epoxy,Coir,40,0.00262,0.00083,Mittal (2019)20,No
+22,PHBV,Flax,30,0.0198,0.00476,Muniyasamy et al (2019)21,No (outlier)
+23,PP,Bagasse,40,0.00069,0.00023,Nourbakhsh et al (2014)22,Yes
+24,PP,Rice Husk Fiber,40,0.00088,0.00029,Nourbakhsh et al (2014)22,Yes
+25,PLA,Himalyacalamus falconeri,20,0.00049,0.00016,Pokhriyal et al (2024)23,Yes
+26,Natural Rubber,Peanut Shell,8.1,0.0002,0.00007,Sareena et al (2013)24,No (outlier)
+27,Natural Rubber,Peanut Shell,26,0.0003,0.0001,Sareena et al (2013)24,No
+28,Natural Rubber,Coconut Shell,8.1,0.0002,0.00007,Sareena et al (2013)24,No (outlier)
+29,Natural Rubber,Coconut Shell,26,0.0002,0.00007,Sareena et al (2013)24,No (outlier)
+30,Starch,Sisal,2.5,0.00334,0.00109,Torres et al (2006)25,No
+31,Starch,Sisal,10,0.00406,0.00136,Torres et al (2006)25,No
+32,Wood Flour Matrix,Sisal Fiber,29.2,0.00755,0.00249,Zhang et al (2005)26,Yes
+33,PLA,Jute Fiber,25,0.00185,0.0006,Gunti et al (2016)27,Yes
+34,PBS,Sisal,30,0.00071,0.00023,Karri et al (2025)28,Yes
+35,PHBV,Flax,30,0.00055,0.00018,Zaidi  et al (2019)29,No (outlier)
+36,PBSu,Hemp,70,0.03838,0.00893,Terzopoulou et al (2016)30,Yes
+37,PBSu,Hemp,50,0.01527,0.00439,Terzopoulou et al (2016) 30,Yes
+38,PBSu,Hemp,30,0.00908,0.00277,Terzopoulou et al (2016) 30,No (outlier)
+39,PHA,Rice Husk Fiber,20,0.02682,0.00692,Chin San Wu (2016)31,Yes
+40,PLA,Sisal,20,0.00962,0.00288,Chin San Wu (2014)31,Yes
+41,poly(3HB-co-3HHx),Short Kenaf,30,0.00332,0.00108,Joyyi et al (2017)32,Yes
+42,PLA/TPS,Coir,30,0.00964,0.00279,Iovino et al (2008)33,No
+43,Bio-PBS,Hemp,30,0.00029,0.0001,Sharma et al (2025)33,Yes
+44,Bio-PBS,Hemp,20,0.00018,0.00006,Sharma et al (2025)33,Yes
+45,Bio-PBS,Hemp,10,0.00013,0.00004,"Sharma et al (2025)33,34",Yes
+46,PLA,Flax,22,0.00032,0.0001,Kanakannavar et al (2021)34,Yes
+47,PLA,Flax,44,0.00084,0.00028,Kanakannavar et al (2021)34,Yes
+48,PCL,Bamboo Powder,10,0.00127,0.00042,Nukala et al (2022)35,Yes
+49,PCL,Bamboo Powder,20,0.00142,0.00047,Nukala et al (2022)35,Yes
+50,PCL,Bamboo Powder,30,0.00164,0.00054,Nukala et al (2022)35,Yes
+51,PCL,Bamboo Powder,40,0.00187,0.00062,Nukala et al (2022)35,Yes
+52,PLA,Coir,30,0.0011,0.00036,Siakeng et al (2020)36,Yes
+53,PLA,PALF Fiber,30,0.00137,0.00044,Siakeng et al (2020)36,Yes
+54,TPS,Flax,40,0.02491,0.00807,Fouad et al (2020)37,Yes
+55,TPS,Flax,80,0.00733,0.00242,Fouad et al (2020) 37,Yes
+56,TPS,Date,50,0.02835,0.00914,Fouad et al (2020) 37,Yes
+57,TPS,Date,80,0.01505,0.00493,Fouad et al (2020) 37,Yes
+58,PLA,Sisal,25,0.00183,0.00059,Gunti et al (2018)38,Yes
+59,PP,Cellulose,20,0.00013,0.00004,Raut et al (2019)39,Yes
+60,PP,Cellulose,30,0.00034,0.00011,Raut et al (2019) 39,Yes
+61,PP,Cellulose,40,0.00054,0.00018,Raut et al (2019) 39,Yes
