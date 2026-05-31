@@ -23,8 +23,8 @@
 ## Setup
 
 ```bash
-git clone [REPO_URL]
-cd [REPO_NAME]
+git clone https://github.com/hamimhasib/Plant-Fiber-Composite-Degradation
+cd Plant-Fiber-Composite-Degradation
 python -m venv .venv && source .venv/bin/activate
 pip install numpy pandas scipy scikit-learn matplotlib seaborn shap lime umap-learn openpyxl
 ```
