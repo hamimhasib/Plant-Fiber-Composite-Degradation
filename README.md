@@ -1,5 +1,6 @@
 # What governs soil biodegradation of plant fibre composites? An explainable machine learning answer — Code Repository
 ---
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20494297.svg)](https://doi.org/10.5281/zenodo.20494297)
 
 ## Contents
 
