@@ -1,0 +1,298 @@
+{
+ "pool_resid": [
+  {
+   "rank": 1,
+   "sample": "35",
+   "matrix": "PHBV",
+   "filler": "Flax",
+   "z": -2.4991345027015166,
+   "n_matrix": 2,
+   "excluded": true
+  },
+  {
+   "rank": 2,
+   "sample": "22",
+   "matrix": "PHBV",
+   "filler": "Flax",
+   "z": 2.01387953500075,
+   "n_matrix": 2,
+   "excluded": true
+  },
+  {
+   "rank": 3,
+   "sample": "29",
+   "matrix": "Natural Rubber",
+   "filler": "Coconut Shell",
+   "z": -1.9482167606698286,
+   "n_matrix": 3,
+   "excluded": true
+  },
+  {
+   "rank": 4,
+   "sample": "26",
+   "matrix": "Natural Rubber",
+   "filler": "Peanut Shell",
+   "z": -1.7658943594248728,
+   "n_matrix": 3,
+   "excluded": true
+  },
+  {
+   "rank": 5,
+   "sample": "20",
+   "matrix": "Epoxy",
+   "filler": "Pineapple Leaf",
+   "z": 1.7267436069364999,
+   "n_matrix": 1,
+   "excluded": true
+  },
+  {
+   "rank": 6,
+   "sample": "38",
+   "matrix": "PBS",
+   "filler": "Hemp",
+   "z": 1.702344421791897,
+   "n_matrix": 7,
+   "excluded": true
+  },
+  {
+   "rank": 7,
+   "sample": "17",
+   "matrix": "PBSA",
+   "filler": "Bamboo Fiber",
+   "z": 1.6793859040937742,
+   "n_matrix": 1,
+   "excluded": true
+  },
+  {
+   "rank": 8,
+   "sample": "2",
+   "matrix": "MaterBi-Y",
+   "filler": "Sisal Fiber",
+   "z": -1.6180091037830004,
+   "n_matrix": 1,
+   "excluded": true
+  },
+  {
+   "rank": 9,
+   "sample": "1",
+   "matrix": "PVA/Starch/Glycerol",
+   "filler": "Baggasse",
+   "z": 1.463878466686673,
+   "n_matrix": 1,
+   "excluded": true
+  },
+  {
+   "rank": 10,
+   "sample": "45",
+   "matrix": "PBS",
+   "filler": "Hemp",
+   "z": -1.4271861426992802,
+   "n_matrix": 7,
+   "excluded": false
+  },
+  {
+   "rank": 11,
+   "sample": "36",
+   "matrix": "PBS",
+   "filler": "Hemp",
+   "z": 1.3586601124866036,
+   "n_matrix": 7,
+   "excluded": false
+  },
+  {
+   "rank": 12,
+   "sample": "34",
+   "matrix": "PBS",
+   "filler": "Sisal",
+   "z": -1.3277503331008604,
+   "n_matrix": 7,
+   "excluded": false
+  },
+  {
+   "rank": 13,
+   "sample": "59",
+   "matrix": "PP",
+   "filler": "Cellulose",
+   "z": -1.2811755735671289,
+   "n_matrix": 10,
+   "excluded": false
+  },
+  {
+   "rank": 14,
+   "sample": "53",
+   "matrix": "PLA",
+   "filler": "PALF Fiber",
+   "z": -1.1132368256978864,
+   "n_matrix": 10,
+   "excluded": false
+  }
+ ],
+ "matrix_ge2": {
+  "n": 42,
+  "n_excl_overlap": 4,
+  "first_order_rate": {
+   "Q2": 0.47330862742461355,
+   "CCC": 0.6274053438417192,
+   "r": 0.6895427423947661,
+   "rho": 0.6564019470499607,
+   "RMSE": 1.2618028083342716,
+   "Bias": -0.0031947615360130577
+  },
+  "hixson_rate": {
+   "Q2": 0.527911691226739,
+   "CCC": 0.6710422898751709,
+   "r": 0.7302064835393524,
+   "rho": 0.6842041943113293,
+   "RMSE": 1.170510090554421,
+   "Bias": 0.02840822563444099
+  }
+ },
+ "matrix_ge3": {
+  "n": 40,
+  "n_excl_overlap": 6,
+  "first_order_rate": {
+   "Q2": 0.6872811267359229,
+   "CCC": 0.7915937478450934,
+   "r": 0.839834775747433,
+   "rho": 0.8065484602527586,
+   "RMSE": 0.9688024647022169,
+   "Bias": -0.03636178202390929
+  },
+  "hixson_rate": {
+   "Q2": 0.692866573652032,
+   "CCC": 0.7961473147042368,
+   "r": 0.8428543233950582,
+   "rho": 0.8099484702203374,
+   "RMSE": 0.9448539157880965,
+   "Bias": -0.02967508595192907
+  }
+ },
+ "base_first_order_rate": {
+  "q2_gpr": 0.7876477207153617,
+  "q2_lookup": 0.27934315565735657,
+  "ccc_lookup": 0.5092495652712811,
+  "q2_quintile": 0.3982612853022697,
+  "gpr_better_than_lookup": 27,
+  "gpr_better_than_quintile": 24,
+  "n": 40,
+  "n_singletons": 4
+ },
+ "base_hixson_rate": {
+  "q2_gpr": 0.7928714879678262,
+  "q2_lookup": 0.30167258413432907,
+  "ccc_lookup": 0.5288794242546073,
+  "q2_quintile": 0.4181931310595908,
+  "gpr_better_than_lookup": 26,
+  "gpr_better_than_quintile": 24,
+  "n": 40,
+  "n_singletons": 4
+ },
+ "extcov_first_order_rate": {
+  "inside95": 9,
+  "inside90": 9,
+  "z": [
+   -0.4327718816054256,
+   0.20535288787395034,
+   1.1473160336869674,
+   0.1403436901574911,
+   -1.6034332631699018,
+   0.24832656378048165,
+   1.1475983923339976,
+   0.7604611556342501,
+   -0.1334189795548957
+  ],
+  "kernel": [
+   0.8710420102806312,
+   2.8496299967442633,
+   0.010000000000000004
+  ]
+ },
+ "extcov_hixson_rate": {
+  "inside95": 9,
+  "inside90": 9,
+  "z": [
+   -0.45011448801733095,
+   -1.4012784384731067,
+   1.1676885721357753,
+   0.12251068167737472,
+   -1.5448679354732533,
+   0.24688369111114722,
+   1.0432153952503522,
+   0.7093735571372458,
+   -0.1351727226685656
+  ],
+  "kernel": [
+   0.866876545094597,
+   2.895034063595708,
+   0.010000000000000004
+  ]
+ },
+ "dir_first_order_rate": {
+  "Half life_matrix_avg": {
+   "mean_abs": 0.17165616271864043,
+   "rho_value_vs_shap": -0.9203148218228302
+  },
+  "Hemicellulose_Percentage": {
+   "mean_abs": 0.2298362236556021,
+   "rho_value_vs_shap": 0.8847108758032973
+  },
+  "tortuosity": {
+   "mean_abs": 0.36903568046363155,
+   "rho_value_vs_shap": -0.8899124734122
+  },
+  "logP_matrix": {
+   "mean_abs": 0.4183548617614061,
+   "rho_value_vs_shap": -0.9111762801892614
+  },
+  "interface_rot": {
+   "mean_abs": 0.27659341024577977,
+   "rho_value_vs_shap": 0.5756367565786649
+  },
+  "fiber_sol_parameter": {
+   "mean_abs": 0.06881689667806408,
+   "rho_value_vs_shap": 0.4093249373238784
+  },
+  "matrix_CED": {
+   "mean_abs": 0.21740220289514395,
+   "rho_value_vs_shap": 0.8286086143593646
+  },
+  "fiber_dia_or_average_particle_size_mm": {
+   "mean_abs": 0.22968724024136766,
+   "rho_value_vs_shap": -0.5546794827254291
+  }
+ },
+ "dir_hixson_rate": {
+  "Half life_matrix_avg": {
+   "mean_abs": 0.16870946110145216,
+   "rho_value_vs_shap": -0.9201233488545951
+  },
+  "Hemicellulose_Percentage": {
+   "mean_abs": 0.23215632471608466,
+   "rho_value_vs_shap": 0.898965180353692
+  },
+  "tortuosity": {
+   "mean_abs": 0.3625813831798582,
+   "rho_value_vs_shap": -0.8919789790502692
+  },
+  "logP_matrix": {
+   "mean_abs": 0.42215694620334976,
+   "rho_value_vs_shap": -0.913257023199866
+  },
+  "interface_rot": {
+   "mean_abs": 0.2703186046123831,
+   "rho_value_vs_shap": 0.5984333230468227
+  },
+  "fiber_sol_parameter": {
+   "mean_abs": 0.0694672491950238,
+   "rho_value_vs_shap": 0.39077489990662423
+  },
+  "matrix_CED": {
+   "mean_abs": 0.21818612352591296,
+   "rho_value_vs_shap": 0.8380665371348397
+  },
+  "fiber_dia_or_average_particle_size_mm": {
+   "mean_abs": 0.22824426090901279,
+   "rho_value_vs_shap": -0.5487556299687412
+  }
+ }
+}

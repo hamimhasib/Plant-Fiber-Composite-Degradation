@@ -1,0 +1,278 @@
+{
+ "0": {
+  "log|first_order_rate": {
+   "order": [
+    "tortuosity",
+    "matrix_CED",
+    "logP_matrix",
+    "Hemicellulose_Percentage",
+    "interface_rot",
+    "fiber_dia_or_average_particle_size_mm",
+    "Half life_matrix_avg",
+    "fiber_sol_parameter"
+   ],
+   "share": [
+    0.21510636573077518,
+    0.17310111259076366,
+    0.16048180495292533,
+    0.12996527978544772,
+    0.12340717548084115,
+    0.10882826351437491,
+    0.05888455835129897,
+    0.03022543959357303
+   ],
+   "group_order": [
+    "matrix chemistry",
+    "fibre geometry",
+    "fibre chemistry",
+    "interface_rot"
+   ],
+   "group_share": [
+    0.399166259802512,
+    0.28460540701376447,
+    0.1740102132629886,
+    0.1422181199207348
+   ]
+  },
+  "log|hixson_rate": {
+   "order": [
+    "tortuosity",
+    "matrix_CED",
+    "logP_matrix",
+    "Hemicellulose_Percentage",
+    "interface_rot",
+    "fiber_dia_or_average_particle_size_mm",
+    "Half life_matrix_avg",
+    "fiber_sol_parameter"
+   ],
+   "share": [
+    0.21312129874978505,
+    0.17136594550533668,
+    0.16492376732476485,
+    0.1319786083582023,
+    0.12144687199085419,
+    0.10791692714120332,
+    0.0588112552879322,
+    0.030435325641921453
+   ],
+   "group_order": [
+    "matrix chemistry",
+    "fibre geometry",
+    "fibre chemistry",
+    "interface_rot"
+   ],
+   "group_share": [
+    0.4027241714499802,
+    0.28246714967195463,
+    0.17513880646995683,
+    0.1396698724081083
+   ]
+  },
+  "nolog|first_order_rate": {
+   "order": [
+    "Hemicellulose_Percentage",
+    "tortuosity",
+    "matrix_CED",
+    "logP_matrix",
+    "interface_rot",
+    "Half life_matrix_avg",
+    "fiber_dia_or_average_particle_size_mm",
+    "fiber_sol_parameter"
+   ],
+   "share": [
+    0.21265976158299832,
+    0.21218220560901155,
+    0.19020171803070654,
+    0.1530297617412763,
+    0.10242120423284541,
+    0.051052823761771414,
+    0.04581706751150429,
+    0.032635457529886086
+   ],
+   "group_order": [
+    "matrix chemistry",
+    "fibre chemistry",
+    "fibre geometry",
+    "interface_rot"
+   ],
+   "group_share": [
+    0.37643861381829985,
+    0.2685040993213153,
+    0.241113775812941,
+    0.1139435110474439
+   ]
+  },
+  "nolog|hixson_rate": {
+   "order": [
+    "Hemicellulose_Percentage",
+    "tortuosity",
+    "matrix_CED",
+    "logP_matrix",
+    "interface_rot",
+    "Half life_matrix_avg",
+    "fiber_dia_or_average_particle_size_mm",
+    "fiber_sol_parameter"
+   ],
+   "share": [
+    0.2158568247119708,
+    0.21046939325474778,
+    0.1900198802937107,
+    0.1571933578248289,
+    0.09852388573239204,
+    0.050407074309609445,
+    0.045001854602863704,
+    0.03252772926987662
+   ],
+   "group_order": [
+    "matrix chemistry",
+    "fibre chemistry",
+    "fibre geometry",
+    "interface_rot"
+   ],
+   "group_share": [
+    0.3792836369113321,
+    0.2710819324085852,
+    0.23997215171253244,
+    0.10966227896755026
+   ]
+  }
+ },
+ "9": {
+  "log|first_order_rate": {
+   "order": [
+    "logP_matrix",
+    "tortuosity",
+    "interface_rot",
+    "fiber_dia_or_average_particle_size_mm",
+    "Hemicellulose_Percentage",
+    "matrix_CED",
+    "Half life_matrix_avg",
+    "fiber_sol_parameter"
+   ],
+   "share": [
+    0.20841253117220226,
+    0.18675699571182056,
+    0.14136196425111835,
+    0.1181823148873974,
+    0.1168279737176402,
+    0.10683171794259362,
+    0.08583803498678275,
+    0.035788467330444926
+   ],
+   "group_order": [
+    "matrix chemistry",
+    "fibre geometry",
+    "interface_rot",
+    "fibre chemistry"
+   ],
+   "group_share": [
+    0.4307721508720269,
+    0.24024516124312625,
+    0.1662376634736595,
+    0.16274502441118735
+   ]
+  },
+  "log|hixson_rate": {
+   "order": [
+    "logP_matrix",
+    "tortuosity",
+    "interface_rot",
+    "Hemicellulose_Percentage",
+    "fiber_dia_or_average_particle_size_mm",
+    "matrix_CED",
+    "Half life_matrix_avg",
+    "fiber_sol_parameter"
+   ],
+   "share": [
+    0.21180481100712853,
+    0.18435774823148404,
+    0.13863844169255715,
+    0.11833583644254704,
+    0.1175907227116416,
+    0.1083978368427321,
+    0.08481144536428882,
+    0.036063157707620766
+   ],
+   "group_order": [
+    "matrix chemistry",
+    "fibre geometry",
+    "fibre chemistry",
+    "interface_rot"
+   ],
+   "group_share": [
+    0.43645480716652113,
+    0.23688501845795415,
+    0.16362064491132544,
+    0.16303952946419928
+   ]
+  },
+  "nolog|first_order_rate": {
+   "order": [
+    "logP_matrix",
+    "tortuosity",
+    "Hemicellulose_Percentage",
+    "interface_rot",
+    "matrix_CED",
+    "fiber_dia_or_average_particle_size_mm",
+    "Half life_matrix_avg",
+    "fiber_sol_parameter"
+   ],
+   "share": [
+    0.24408706439295266,
+    0.17372050113176388,
+    0.15650410909677118,
+    0.12087569863603824,
+    0.10067248552453856,
+    0.0902160383145329,
+    0.06473739936028147,
+    0.049186703543121046
+   ],
+   "group_order": [
+    "matrix chemistry",
+    "fibre chemistry",
+    "fibre geometry",
+    "interface_rot"
+   ],
+   "group_share": [
+    0.40819567607889695,
+    0.2381554483675309,
+    0.2051114029246676,
+    0.14853747262890457
+   ]
+  },
+  "nolog|hixson_rate": {
+   "order": [
+    "logP_matrix",
+    "tortuosity",
+    "Hemicellulose_Percentage",
+    "interface_rot",
+    "matrix_CED",
+    "fiber_dia_or_average_particle_size_mm",
+    "Half life_matrix_avg",
+    "fiber_sol_parameter"
+   ],
+   "share": [
+    0.24622892284625153,
+    0.17236424439958908,
+    0.15916654366594962,
+    0.11785296433140197,
+    0.10475065876399005,
+    0.08863655305553471,
+    0.06261636881814969,
+    0.04838374411913332
+   ],
+   "group_order": [
+    "matrix chemistry",
+    "fibre chemistry",
+    "fibre geometry",
+    "interface_rot"
+   ],
+   "group_share": [
+    0.4128707279435014,
+    0.23961906251127754,
+    0.20289353874207225,
+    0.14461667080314877
+   ]
+  }
+ }
+}
